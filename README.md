@@ -1,15 +1,4 @@
-- 👋 Hi, I’m @justgottamakeit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-justgottamakeit/justgottamakeit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-  
-https://mainadfs.delta.edu/adfs/ls/?client-request-
+adfs/ls/?client-request-
 id=60145b63-8a30-3775-25€3-8f767a587640&username
 =&wa=wsignin1.0&wtrealm=urn%3Afederation%3AMicroso
 ftOnline&wctx=estsredirect%3D2%26estsrequest%3DrQQ
